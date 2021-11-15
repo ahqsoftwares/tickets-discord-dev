@@ -1,5 +1,5 @@
 # Example 🔍
-```
+```js
 let {
         Discord,
         Client,
@@ -37,7 +37,7 @@ let {
     }
 
 });
-```
+```js
 
 # Setup 🎟
 
