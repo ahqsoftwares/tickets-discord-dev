@@ -1,0 +1,43 @@
+{
+    "name": "tickets-discord",
+    "version": "2.7.5",
+    "description": "Easy Ticket Setup for Discord.js v13",
+    "main": "index.js",
+    "bin": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "discord ticket",
+        "discord",
+        "discord.js",
+        "moderation",
+        "discord_ticket",
+        "discord ticket system",
+        "discord_ticket_system",
+        "discord ticket",
+        "discord js ticket",
+        "djs ticket",
+        "djs ticket system",
+        "discord system ticket",
+        "ticket systen",
+        "ticket discord",
+        "discord",
+        "ticket"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ahqsoftwares/tickets-discord.git"
+    },
+    "author": "AHQMiness",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ahqsoftwares/tickets-discord/issues"
+    },
+    "dependencies": {
+        "discord.js": "^13.2.0",
+        "process": "^0.11.10",
+        "mongquick": "git+https://github.com/ahqsoftwares/quickmongo.git",
+        "quick.db": "^7.1.3"
+    }
+}
